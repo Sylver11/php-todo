@@ -1,0 +1,29 @@
+body {
+    overflow-x: hidden;
+}
+
+main {
+    width: 800px;
+}
+
+.todo-pic {
+    width: 100%;
+    height: 100%;
+}
+
+.update {
+    display: none;
+}
+
+
+.complete {
+    text-decoration: line-through;
+}
+
+
+
+
+.none {
+
+    display: none
+}

@@ -1,0 +1,25 @@
+main {
+    width: 800px;
+}
+
+
+body {
+    overflow-x: hidden;
+}
+
+.update {
+    display: none;
+}
+
+
+.complete {
+    text-decoration: line-through;
+}
+
+
+
+
+.none {
+
+    display: none
+}
